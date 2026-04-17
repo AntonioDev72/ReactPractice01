@@ -1,5 +1,13 @@
 function App() {
-const JSX = <h1>Hello JSX!</h1>
+  const JSX = <div>
+    <h1>My First React App</h1>
+    <p>I'm learning React!</p>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
 
   return (
     <>
