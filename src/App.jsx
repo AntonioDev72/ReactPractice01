@@ -1,5 +1,5 @@
 function App() {
-  const JSX = <div id="challenge-node">
+  const JSX = <div className="my-div">
     {/* hey */}
     <h1>My First React App</h1>
     <p>I'm learning React!</p>
