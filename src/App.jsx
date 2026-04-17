@@ -1,5 +1,6 @@
 function App() {
   const JSX = <div className="my-div">
+    <>
     {/* hey */}
     <h1>My First React App</h1>
     <p>I'm learning React!</p>
@@ -10,7 +11,13 @@ function App() {
         <li>Item 3</li>
       </ul>
     </div>
-
+    <div>
+      <h2>Welcome to React!</h2> 
+      <br></br>
+      <p>Be sure to close all tags!</p>
+      <hr/>
+  </div>
+  </>
   return (
     <>
       {JSX}
