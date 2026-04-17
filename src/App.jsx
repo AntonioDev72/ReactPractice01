@@ -1,8 +1,9 @@
 function App() {
-  const JSX = <div>I am a JSX div</div>
+const JSX = <h1>Hello JSX!</h1>
 
   return (
     <>
+      {JSX}
     </>
   )
 }
