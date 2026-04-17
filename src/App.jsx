@@ -1,8 +1,9 @@
 function App() {
-  const JSX = <div>
+  const JSX = <div id="challenge-node">
     {/* hey */}
     <h1>My First React App</h1>
     <p>I'm learning React!</p>
+    <p>Lets render this to the DOM</p>
       <ul>
         <li>Item 1</li>
         <li>Item 2</li>
